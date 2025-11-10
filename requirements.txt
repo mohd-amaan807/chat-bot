@@ -1,0 +1,18 @@
+# Core dependencies
+pandas
+numpy
+
+# Natural Language Processing
+nltk
+scikit-learn
+
+# Optional: if you use deep learning or embeddings
+tensorflow
+keras
+
+# Visualization (optional)
+matplotlib
+seaborn
+
+# Utility
+json5
